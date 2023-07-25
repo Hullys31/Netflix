@@ -1,0 +1,184 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:white;
+    overflow: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+
+.contenu{
+    color: white;
+    position: absolute;
+    top: 300px;
+    right: 280px;
+    text-align: center;
+}
+
+.contenu h1 {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.contenu h2{
+    font-size: 35px;
+    font-weight: normal;
+    font-family: arial;
+}
+
+header{
+   overflow: hidden;
+}
+
+.contact{
+    position: absolute;
+    top: 650px;
+    right: 600px;
+}
+
+#email{
+    width: 400px;
+    height: 80px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(186, 183, 180);
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.contact button{
+    width:  250px;
+    height: 80px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+
+
+
+nav{
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    width: 90%;
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    gap: 500px;
+    margin: 30px;
+    
+}
+
+
+
+button{
+    background-color: red;
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    color: w;
+   
+
+}
+
+hr{
+    height: 10px;
+    background-color: rgb(49, 48, 48);
+}
+
+.Bloc2{
+    display: flex;
+    justify-content: space-around;
+    height: 800px;
+    align-items: center;
+}
+
+
+.enf1 h2{
+    font-size: 70px;
+    font-weight:bold ;
+    padding-bottom: 20px;
+}
+
+.enf1 h3{
+    font-size: 35px;
+    font-weight: normal;
+    font-family: arial;
+}
+
+
+hr{
+    height: 10px;
+    background-color: rgb(49, 48, 48);
+}
+
+
+.Bloc3{
+    display: flex;
+    justify-content: space-around;
+    height: 800px;
+    align-items: center;
+}
+
+
+.enf4 h2{
+    font-size: 70px;
+    font-weight:bold ;
+    padding-bottom: 20px;
+}
+
+.enf4 h3{
+    font-size: 35px;
+    font-weight: normal;
+    font-family: arial;
+}
+
+
+
+
+.enf5 h2{
+    font-size: 70px;
+    font-weight:bold ;
+    padding-bottom: 20px;
+}
+
+
+.Bloc4{
+    height: 500px;
+    padding: 50px;
+}
+
+.enf5 h3{
+    font-size: 35px;
+    font-weight: normal;
+    font-family: arial;
+}
+
+
+.Bloc5{
+    display: flex;
+    justify-content: space-around;
+    height: 800px;
+    align-items: center;
+}
+
+
+.enf6 h2{
+    font-size: 70px;
+    font-weight:bold ;
+    padding-bottom: 20px;
+}
+
+.enf6 h3{
+    font-size: 35px;
+    font-weight: normal;
+    font-family: arial;
+}
